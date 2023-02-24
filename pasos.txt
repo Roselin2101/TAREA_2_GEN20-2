@@ -1,0 +1,9 @@
+1)Tengo que crear middlewares para reutilizar codigo -> Listo
+2) Actualizar los modelos -> Listo  
+3) Crear relaciones -> Listo
+ 1 - N
+
+ 4) Implementar express-validator esto se hace en las rutas -> Listo
+
+ 5) Implementar el include para traerme la informacion del usuario cuando busco los servicios -> Listo
+ 
